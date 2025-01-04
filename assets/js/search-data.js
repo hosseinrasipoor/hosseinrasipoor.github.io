@@ -398,17 +398,6 @@ ninja.data = [{
           window.location.href = "/blog/2015/math/";
         
       },
-    },{id: "post-a-post-with-code",
-      
-        title: "a post with code",
-      
-      description: "an example of a blog post with some code",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/code/";
-        
-      },
     },{id: "post-a-post-with-images",
       
         title: "a post with images",
@@ -514,13 +503,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://telegram.me/hossein_rhbisisi", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
