@@ -2,7 +2,7 @@
 layout: page
 title: project 3
 description: this project is 3 asus
-img: assets/img/iust.jpg
+img: assets/img/asus.jpg
 importance: 1
 category: work
 related_publications: true
