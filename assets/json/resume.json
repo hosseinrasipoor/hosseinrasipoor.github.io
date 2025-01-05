@@ -13,8 +13,7 @@
       "city": "Tehran",
       "countryCode": "IR",
       "region": "IRAN"
-    },
-    
+    }
   },
   "work": [
     {
@@ -67,6 +66,6 @@
       "fluency": "Fluent",
       "icon": ""
     }
-  ],
+  ]
   
 }
